@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="GeekKKOKKO" type="main_node.py" name="main_node"/>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="GeekKKOKKO" type="video_node.py" name="video_node"/>
+</launch>
